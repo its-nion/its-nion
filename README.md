@@ -2,7 +2,7 @@
 <h3 align="center">Hey there, I'm Lukas</h3>
 
 <h5 align="center">
-I'm a 20 year old Computer-/Game-Engineer student based in germany.
+I'm a 20 year old Computer-/Game-Engineer student based in germany./n
 I love coding, simplistic art and animations. I also enjoy photography :)
 </h5>
 
