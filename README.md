@@ -1,5 +1,5 @@
 
-<h3 align="center">Hey there, I'm Lukas</h3>
+<h3 align="center">Hey there, I'm Lukas!</h3>
 
 <h5 align="center">
 I'm a 20 year old Computer-/Game-Engineer student based in germany.
