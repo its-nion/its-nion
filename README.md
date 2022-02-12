@@ -3,9 +3,9 @@
 
 ___
 
-![](https://img.shields.io/badge/Engines:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![](https://img.shields.io/badge/Game_Engines:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-![](https://img.shields.io/badge/Code_Editors:-404D59?style=for-the-badge)![]()![]()
+![](https://img.shields.io/badge/Code_Editors/IDE's:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <!--
 **its-nion/its-nion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
