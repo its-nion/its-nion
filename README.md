@@ -3,9 +3,7 @@
 
 > A software developer/game engineer from Germany
 
-- Current Occupation:
-
-!https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
+![](https://img.shields.io/badge/-IDE%3A-lightgrey)![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <!--
 **its-nion/its-nion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
