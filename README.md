@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Lukas</h1>
+<h3 align="center">A software developer/game engineer from Germany</h3>
 
 <!--
 **its-nion/its-nion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
