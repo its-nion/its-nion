@@ -8,13 +8,16 @@ ___
 ![](https://img.shields.io/badge/Languages:-404D59?style=for-the-badge)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 </div>
-
 <div align="center">
 
 ![](https://img.shields.io/badge/Game_Engines:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
   
 </div>
+<div align="center">
+  
+![](https://img.shields.io/badge/IDE's:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+</div>
 <div align="center">
   
 ![](https://img.shields.io/badge/IDE's:-404D59?style=for-the-badge)![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
